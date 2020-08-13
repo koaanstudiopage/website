@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d577ebc.chunk.css",
-    "main.js": "/static/js/main.e42d0971.chunk.js",
-    "main.js.map": "/static/js/main.e42d0971.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.279f44ad.js",
-    "runtime-main.js.map": "/static/js/runtime-main.279f44ad.js.map",
-    "static/js/2.c8545ee0.chunk.js": "/static/js/2.c8545ee0.chunk.js",
-    "static/js/2.c8545ee0.chunk.js.map": "/static/js/2.c8545ee0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.662f3c3537df23c0f4e90780b6dbdf18.js": "/precache-manifest.662f3c3537df23c0f4e90780b6dbdf18.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0d577ebc.chunk.css.map": "/static/css/main.0d577ebc.chunk.css.map",
-    "static/js/2.c8545ee0.chunk.js.LICENSE.txt": "/static/js/2.c8545ee0.chunk.js.LICENSE.txt",
-    "static/media/TALL.png": "/static/media/TALL.350872b6.png",
-    "static/media/Homestyle.css": "/static/media/paintingtree-min.d40e95dc.png",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/wide.png": "/static/media/wide.d1fe74e3.png"
+    "main.css": "/koaanstudios.com/static/css/main.93623585.chunk.css",
+    "main.js": "/koaanstudios.com/static/js/main.097b1f2e.chunk.js",
+    "main.js.map": "/koaanstudios.com/static/js/main.097b1f2e.chunk.js.map",
+    "runtime-main.js": "/koaanstudios.com/static/js/runtime-main.c18f359e.js",
+    "runtime-main.js.map": "/koaanstudios.com/static/js/runtime-main.c18f359e.js.map",
+    "static/js/2.c8545ee0.chunk.js": "/koaanstudios.com/static/js/2.c8545ee0.chunk.js",
+    "static/js/2.c8545ee0.chunk.js.map": "/koaanstudios.com/static/js/2.c8545ee0.chunk.js.map",
+    "index.html": "/koaanstudios.com/index.html",
+    "precache-manifest.e890097d792a5c57ce0904c76fb95369.js": "/koaanstudios.com/precache-manifest.e890097d792a5c57ce0904c76fb95369.js",
+    "service-worker.js": "/koaanstudios.com/service-worker.js",
+    "static/css/main.93623585.chunk.css.map": "/koaanstudios.com/static/css/main.93623585.chunk.css.map",
+    "static/js/2.c8545ee0.chunk.js.LICENSE.txt": "/koaanstudios.com/static/js/2.c8545ee0.chunk.js.LICENSE.txt",
+    "static/media/TALL.png": "/koaanstudios.com/static/media/TALL.350872b6.png",
+    "static/media/Homestyle.css": "/koaanstudios.com/static/media/paintingtree-min.d40e95dc.png",
+    "static/media/logo.svg": "/koaanstudios.com/static/media/logo.5d5d9eef.svg",
+    "static/media/wide.png": "/koaanstudios.com/static/media/wide.d1fe74e3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.279f44ad.js",
+    "static/js/runtime-main.c18f359e.js",
     "static/js/2.c8545ee0.chunk.js",
-    "static/css/main.0d577ebc.chunk.css",
-    "static/js/main.e42d0971.chunk.js"
+    "static/css/main.93623585.chunk.css",
+    "static/js/main.097b1f2e.chunk.js"
   ]
 }
