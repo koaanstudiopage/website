@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/koaanstudiopage.github.io/website/static/css/main.1d48440a.chunk.css",
-    "main.js": "/koaanstudiopage.github.io/website/static/js/main.bf378913.chunk.js",
-    "main.js.map": "/koaanstudiopage.github.io/website/static/js/main.bf378913.chunk.js.map",
-    "runtime-main.js": "/koaanstudiopage.github.io/website/static/js/runtime-main.57327082.js",
-    "runtime-main.js.map": "/koaanstudiopage.github.io/website/static/js/runtime-main.57327082.js.map",
-    "static/js/2.c8545ee0.chunk.js": "/koaanstudiopage.github.io/website/static/js/2.c8545ee0.chunk.js",
-    "static/js/2.c8545ee0.chunk.js.map": "/koaanstudiopage.github.io/website/static/js/2.c8545ee0.chunk.js.map",
-    "index.html": "/koaanstudiopage.github.io/website/index.html",
-    "precache-manifest.4787586062c30bcd0257fbe25d3a02cd.js": "/koaanstudiopage.github.io/website/precache-manifest.4787586062c30bcd0257fbe25d3a02cd.js",
-    "service-worker.js": "/koaanstudiopage.github.io/website/service-worker.js",
-    "static/css/main.1d48440a.chunk.css.map": "/koaanstudiopage.github.io/website/static/css/main.1d48440a.chunk.css.map",
-    "static/js/2.c8545ee0.chunk.js.LICENSE.txt": "/koaanstudiopage.github.io/website/static/js/2.c8545ee0.chunk.js.LICENSE.txt",
-    "static/media/TALL.png": "/koaanstudiopage.github.io/website/static/media/TALL.350872b6.png",
-    "static/media/Homestyle.css": "/koaanstudiopage.github.io/website/static/media/paintingtree-min.d40e95dc.png",
-    "static/media/logo.svg": "/koaanstudiopage.github.io/website/static/media/logo.5d5d9eef.svg",
-    "static/media/wide.png": "/koaanstudiopage.github.io/website/static/media/wide.d1fe74e3.png"
+    "main.css": "/static/css/main.0d577ebc.chunk.css",
+    "main.js": "/static/js/main.e42d0971.chunk.js",
+    "main.js.map": "/static/js/main.e42d0971.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.279f44ad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.279f44ad.js.map",
+    "static/js/2.c8545ee0.chunk.js": "/static/js/2.c8545ee0.chunk.js",
+    "static/js/2.c8545ee0.chunk.js.map": "/static/js/2.c8545ee0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.662f3c3537df23c0f4e90780b6dbdf18.js": "/precache-manifest.662f3c3537df23c0f4e90780b6dbdf18.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0d577ebc.chunk.css.map": "/static/css/main.0d577ebc.chunk.css.map",
+    "static/js/2.c8545ee0.chunk.js.LICENSE.txt": "/static/js/2.c8545ee0.chunk.js.LICENSE.txt",
+    "static/media/TALL.png": "/static/media/TALL.350872b6.png",
+    "static/media/Homestyle.css": "/static/media/paintingtree-min.d40e95dc.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/wide.png": "/static/media/wide.d1fe74e3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.57327082.js",
+    "static/js/runtime-main.279f44ad.js",
     "static/js/2.c8545ee0.chunk.js",
-    "static/css/main.1d48440a.chunk.css",
-    "static/js/main.bf378913.chunk.js"
+    "static/css/main.0d577ebc.chunk.css",
+    "static/js/main.e42d0971.chunk.js"
   ]
 }
